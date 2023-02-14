@@ -21,7 +21,7 @@ int main(){
 }
 
 int y(double x){
-	return  pow(x,2);
+	return  pow(x+10,3);
 }
 
 void plot(){
